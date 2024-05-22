@@ -1,0 +1,1 @@
+²ÿ*^<?php exit; ?>a:1:{s:7:"content";s:98:"Witaj w %s. To jest twÃ³j pierwszy wpis. Zmodyfikuj go lub usuÅ„, a nastÄ™pnie rozpocznij pisanie!";}

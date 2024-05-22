@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc5247c7-8027-42dc-a79d-e342eac65ea9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/danece-schedule/css/rozklad_strona.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="190" column="14" selection-start-line="190" selection-start-column="14" selection-end-line="190" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/dancecategories/css/kafelki.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="674">
+              <caret line="248" column="40" selection-start-line="248" selection-start-column="40" selection-end-line="248" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/dance-new-course/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="605">
+              <caret line="115" selection-start-line="115" selection-end-line="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@media (min-width: 761px)</find>
+      <find>border: 1px</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/plugins/danece-schedule/wpdancescdule.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/danece-schedule/css/rozklad_strona.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/dancecategories/wpdance.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/pwprogramming-dance-studio/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/dancecategories/css/kafelki.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/dance-new-course/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="width" value="3105" />
+    <option name="height" value="1626" />
+  </component>
+  <component name="ProjectId" id="1cBTxkhoVPMDaUL2IFknq3fTnON" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="esenswp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esenswp2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esenswp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esenswp2" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esenswp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esenswp2" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esenswp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esenswp2" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="dance-calendar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esenswp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esenswp2" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="dance-new-course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esenswp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esenswp2" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="dance-new-course" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esenswp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esenswp2" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="dancecategories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esenswp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esenswp2" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="dancecategories" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esenswp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esenswp2" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="dancecategories" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esenswp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esenswp2" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="danece-schedule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esenswp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esenswp2" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="danece-schedule" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esenswp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esenswp2" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esenswp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esenswp2" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="pwprogramming-dance-studio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esenswp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esenswp2" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="pwprogramming-dance-studio" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../esensplan/EsensPlan/css/rozklad_strona.css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\esenswp2\wp-content\themes" />
+      <recent name="Y:\esenswp2\wp-content\themes\pwprogramming-dance-studio\page-template" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc5247c7-8027-42dc-a79d-e342eac65ea9" name="Default Changelist" comment="" />
+      <created>1590001235325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590001235325</updated>
+      <workItem from="1590001237332" duration="417000" />
+      <workItem from="1590001693407" duration="99000" />
+      <workItem from="1590046626885" duration="284000" />
+      <workItem from="1590836420647" duration="2147000" />
+      <workItem from="1590856715990" duration="846000" />
+      <workItem from="1590914020925" duration="1770000" />
+      <workItem from="1590992870114" duration="4122000" />
+      <workItem from="1591035986524" duration="314000" />
+      <workItem from="1591270293152" duration="1766000" />
+      <workItem from="1591277437310" duration="494000" />
+      <workItem from="1591278849747" duration="550000" />
+      <workItem from="1591282388673" duration="2341000" />
+      <workItem from="1591286510095" duration="690000" />
+      <workItem from="1591339566144" duration="201000" />
+      <workItem from="1591990883250" duration="1142000" />
+      <workItem from="1593425923379" duration="2505000" />
+      <workItem from="1593514773038" duration="2138000" />
+      <workItem from="1593517656390" duration="2444000" />
+      <workItem from="1594395440589" duration="1733000" />
+      <workItem from="1594972793046" duration="1364000" />
+      <workItem from="1595329441310" duration="50000" />
+      <workItem from="1595583815950" duration="612000" />
+      <workItem from="1595612233669" duration="3575000" />
+      <workItem from="1595851550427" duration="82000" />
+      <workItem from="1596023172128" duration="3657000" />
+      <workItem from="1596280592714" duration="3171000" />
+      <workItem from="1596444190044" duration="536000" />
+      <workItem from="1596461167137" duration="62000" />
+      <workItem from="1596461267047" duration="2396000" />
+      <workItem from="1596702502598" duration="1231000" />
+      <workItem from="1596704669086" duration="1587000" />
+      <workItem from="1596709376511" duration="2469000" />
+      <workItem from="1596714515775" duration="949000" />
+      <workItem from="1596811997118" duration="5127000" />
+      <workItem from="1596885777930" duration="634000" />
+      <workItem from="1596889494387" duration="2965000" />
+      <workItem from="1596996589081" duration="68000" />
+      <workItem from="1597051523097" duration="1255000" />
+      <workItem from="1597057068793" duration="1390000" />
+      <workItem from="1597062345808" duration="1475000" />
+      <workItem from="1597134813534" duration="3521000" />
+      <workItem from="1597235820352" duration="106000" />
+      <workItem from="1597310209672" duration="1777000" />
+      <workItem from="1597318010402" duration="950000" />
+      <workItem from="1597411517680" duration="2344000" />
+      <workItem from="1597491626508" duration="2465000" />
+      <workItem from="1597574500248" duration="1262000" />
+      <workItem from="1597581551270" duration="514000" />
+      <workItem from="1597583988878" duration="2251000" />
+      <workItem from="1597587524388" duration="2631000" />
+      <workItem from="1597829850317" duration="4850000" />
+      <workItem from="1597837651228" duration="756000" />
+      <workItem from="1597914457622" duration="1939000" />
+      <workItem from="1597918524040" duration="4328000" />
+      <workItem from="1597924988614" duration="93000" />
+      <workItem from="1597941605426" duration="1450000" />
+      <workItem from="1597943950576" duration="2531000" />
+      <workItem from="1598599351961" duration="161000" />
+      <workItem from="1598600144652" duration="1206000" />
+      <workItem from="1598894942851" duration="3631000" />
+      <workItem from="1598947566263" duration="1864000" />
+      <workItem from="1599041261868" duration="154000" />
+      <workItem from="1599041455720" duration="514000" />
+      <workItem from="1599043544934" duration="446000" />
+      <workItem from="1599044046941" duration="30000" />
+      <workItem from="1599647764475" duration="1570000" />
+      <workItem from="1599664995326" duration="1512000" />
+      <workItem from="1599666841226" duration="1848000" />
+      <workItem from="1599735617626" duration="28000" />
+      <workItem from="1599831100655" duration="826000" />
+      <workItem from="1600073880196" duration="4572000" />
+      <workItem from="1600085246944" duration="5846000" />
+      <workItem from="1600163352790" duration="7583000" />
+      <workItem from="1600261302161" duration="168000" />
+      <workItem from="1600261987453" duration="54000" />
+      <workItem from="1600267642342" duration="126000" />
+      <workItem from="1600330644251" duration="1525000" />
+      <workItem from="1600343314739" duration="1436000" />
+      <workItem from="1600350962674" duration="1432000" />
+      <workItem from="1600424103005" duration="233000" />
+      <workItem from="1600424367420" duration="2225000" />
+      <workItem from="1600678312225" duration="684000" />
+      <workItem from="1600683758873" duration="16000" />
+      <workItem from="1600697244720" duration="1566000" />
+      <workItem from="1600715791487" duration="318000" />
+      <workItem from="1600762464657" duration="398000" />
+      <workItem from="1600767662901" duration="3116000" />
+      <workItem from="1601127132108" duration="5782000" />
+      <workItem from="1601138301515" duration="91000" />
+      <workItem from="1601303592357" duration="1422000" />
+      <workItem from="1601312993768" duration="461000" />
+      <workItem from="1601320702149" duration="723000" />
+      <workItem from="1601381265466" duration="654000" />
+      <workItem from="1601383368688" duration="817000" />
+      <workItem from="1601387886721" duration="1383000" />
+      <workItem from="1601390694423" duration="155000" />
+      <workItem from="1601465190163" duration="1125000" />
+      <workItem from="1601466528582" duration="3097000" />
+      <workItem from="1601535993167" duration="2853000" />
+      <workItem from="1601550120475" duration="3485000" />
+      <workItem from="1601801156819" duration="1727000" />
+      <workItem from="1602186662118" duration="63000" />
+      <workItem from="1602521049863" duration="208000" />
+      <workItem from="1602521366038" duration="8631000" />
+      <workItem from="1602587094122" duration="2227000" />
+      <workItem from="1602601556597" duration="1424000" />
+      <workItem from="1602690444635" duration="2901000" />
+      <workItem from="1602758021017" duration="14995000" />
+      <workItem from="1602785641180" duration="3054000" />
+      <workItem from="1603108593584" duration="3086000" />
+      <workItem from="1603195593078" duration="4840000" />
+      <workItem from="1603276679207" duration="3902000" />
+      <workItem from="1603285837461" duration="206000" />
+      <workItem from="1603366456788" duration="4706000" />
+      <workItem from="1603468637223" duration="4263000" />
+      <workItem from="1603480006018" duration="2406000" />
+      <workItem from="1603620162040" duration="4273000" />
+      <workItem from="1603624826703" duration="624000" />
+      <workItem from="1603625649114" duration="956000" />
+      <workItem from="1603631306771" duration="3481000" />
+      <workItem from="1603707917069" duration="2467000" />
+      <workItem from="1603714682027" duration="11726000" />
+      <workItem from="1603748680781" duration="713000" />
+      <workItem from="1603800487987" duration="2317000" />
+      <workItem from="1603971008047" duration="1827000" />
+      <workItem from="1603995356473" duration="843000" />
+      <workItem from="1603996307975" duration="1303000" />
+      <workItem from="1604004098028" duration="765000" />
+      <workItem from="1604005349086" duration="636000" />
+      <workItem from="1604055038260" duration="1489000" />
+      <workItem from="1604130928651" duration="790000" />
+      <workItem from="1604337075377" duration="1364000" />
+      <workItem from="1604400568937" duration="679000" />
+      <workItem from="1604402383810" duration="3022000" />
+      <workItem from="1604572469445" duration="4431000" />
+      <workItem from="1604602661094" duration="234000" />
+      <workItem from="1604602931778" duration="170000" />
+      <workItem from="1604741151071" duration="3002000" />
+      <workItem from="1605168961687" duration="4212000" />
+      <workItem from="1605190669841" duration="2992000" />
+      <workItem from="1605272203876" duration="614000" />
+      <workItem from="1605434416282" duration="1196000" />
+      <workItem from="1606316819107" duration="1576000" />
+      <workItem from="1606466035143" duration="1146000" />
+      <workItem from="1606766480120" duration="2196000" />
+      <workItem from="1606819466874" duration="1260000" />
+      <workItem from="1606849013244" duration="2555000" />
+      <workItem from="1607069928582" duration="1787000" />
+      <workItem from="1607107545827" duration="637000" />
+      <workItem from="1607689905762" duration="1316000" />
+      <workItem from="1607945768252" duration="2003000" />
+      <workItem from="1608371088333" duration="20000" />
+      <workItem from="1608371185902" duration="598000" />
+      <workItem from="1608634392653" duration="1186000" />
+      <workItem from="1609853535711" duration="1782000" />
+      <workItem from="1610362432004" duration="6168000" />
+      <workItem from="1610459563485" duration="1136000" />
+      <workItem from="1610640068226" duration="1020000" />
+      <workItem from="1610700326316" duration="79000" />
+      <workItem from="1611604589087" duration="903000" />
+      <workItem from="1611665917278" duration="24000" />
+      <workItem from="1612202939557" duration="4402000" />
+      <workItem from="1612455198470" duration="25000" />
+      <workItem from="1612608273384" duration="1251000" />
+      <workItem from="1612811505882" duration="3237000" />
+      <workItem from="1613058706834" duration="1133000" />
+      <workItem from="1613069671992" duration="1630000" />
+      <workItem from="1613649589735" duration="1571000" />
+      <workItem from="1613682542582" duration="607000" />
+      <workItem from="1613912012648" duration="123000" />
+      <workItem from="1614174146277" duration="4578000" />
+      <workItem from="1614789879257" duration="421000" />
+      <workItem from="1615551912521" duration="1994000" />
+      <workItem from="1615811656318" duration="8146000" />
+      <workItem from="1615888568827" duration="596000" />
+      <workItem from="1616057211488" duration="738000" />
+      <workItem from="1616068322691" duration="2136000" />
+      <workItem from="1616081743070" duration="600000" />
+      <workItem from="1616091868813" duration="1718000" />
+      <workItem from="1616093634272" duration="2419000" />
+      <workItem from="1616096354330" duration="1293000" />
+      <workItem from="1616413568537" duration="212000" />
+      <workItem from="1616415321296" duration="2576000" />
+      <workItem from="1616437998335" duration="399000" />
+      <workItem from="1616439753180" duration="1667000" />
+      <workItem from="1616482189784" duration="161000" />
+      <workItem from="1616682271910" duration="426000" />
+      <workItem from="1616703752806" duration="707000" />
+      <workItem from="1617009713479" duration="9601000" />
+      <workItem from="1617045386459" duration="1730000" />
+      <workItem from="1617265798915" duration="2628000" />
+      <workItem from="1617303745509" duration="792000" />
+      <workItem from="1617697813584" duration="4000" />
+      <workItem from="1617902246111" duration="4568000" />
+      <workItem from="1618230213724" duration="2492000" />
+      <workItem from="1618250639230" duration="2601000" />
+      <workItem from="1618317905633" duration="615000" />
+      <workItem from="1618402204406" duration="1196000" />
+      <workItem from="1618483975789" duration="6758000" />
+      <workItem from="1618824055252" duration="7166000" />
+      <workItem from="1618850496703" duration="2874000" />
+      <workItem from="1619605428920" duration="5000" />
+      <workItem from="1619723901114" duration="1349000" />
+      <workItem from="1620634256292" duration="610000" />
+      <workItem from="1620637009970" duration="10437000" />
+      <workItem from="1620665762473" duration="3158000" />
+      <workItem from="1620732702567" duration="29000" />
+      <workItem from="1620755875480" duration="388000" />
+      <workItem from="1620757522066" duration="30000" />
+      <workItem from="1621862295876" duration="2072000" />
+      <workItem from="1621877691423" duration="3375000" />
+      <workItem from="1621937173970" duration="30000" />
+      <workItem from="1622127435285" duration="3222000" />
+      <workItem from="1622142702852" duration="1094000" />
+      <workItem from="1622202842228" duration="2204000" />
+      <workItem from="1622530306079" duration="597000" />
+      <workItem from="1622739328841" duration="1487000" />
+      <workItem from="1622745626420" duration="927000" />
+      <workItem from="1622746640866" duration="1068000" />
+      <workItem from="1623076315631" duration="13000" />
+      <workItem from="1623076329509" duration="148000" />
+      <workItem from="1623083050206" duration="699000" />
+      <workItem from="1623092136764" duration="1166000" />
+      <workItem from="1623226529435" duration="1469000" />
+      <workItem from="1623308778172" duration="8337000" />
+      <workItem from="1623661777345" duration="2016000" />
+      <workItem from="1623934061653" duration="6227000" />
+      <workItem from="1623957522549" duration="779000" />
+      <workItem from="1624009038026" duration="660000" />
+      <workItem from="1624102112310" duration="1339000" />
+      <workItem from="1624278425212" duration="3957000" />
+      <workItem from="1624548549333" duration="3435000" />
+      <workItem from="1624553690689" duration="1610000" />
+      <workItem from="1624558492516" duration="738000" />
+      <workItem from="1624707720804" duration="2109000" />
+      <workItem from="1624956293890" duration="3154000" />
+      <workItem from="1625161629661" duration="1427000" />
+      <workItem from="1625512458085" duration="4631000" />
+      <workItem from="1625732447448" duration="2126000" />
+      <workItem from="1625770904721" duration="1307000" />
+      <workItem from="1625861168851" duration="5443000" />
+      <workItem from="1625867026494" duration="2751000" />
+      <workItem from="1625902945215" duration="11517000" />
+      <workItem from="1626012595542" duration="257000" />
+      <workItem from="1626013131293" duration="2177000" />
+      <workItem from="1626026655359" duration="3394000" />
+      <workItem from="1626118151139" duration="1460000" />
+      <workItem from="1626373453399" duration="712000" />
+      <workItem from="1626679393056" duration="1188000" />
+      <workItem from="1626978345946" duration="461000" />
+      <workItem from="1627376092796" duration="601000" />
+      <workItem from="1627574240200" duration="1606000" />
+      <workItem from="1627580390456" duration="751000" />
+      <workItem from="1627902510564" duration="230000" />
+      <workItem from="1627905260560" duration="29000" />
+      <workItem from="1627907627451" duration="920000" />
+      <workItem from="1628528869821" duration="2209000" />
+      <workItem from="1628536007738" duration="1327000" />
+      <workItem from="1628781771467" duration="2677000" />
+      <workItem from="1628971723929" duration="514000" />
+      <workItem from="1629134877972" duration="890000" />
+      <workItem from="1629135984227" duration="214000" />
+      <workItem from="1629137375681" duration="2159000" />
+      <workItem from="1630600705736" duration="693000" />
+      <workItem from="1630947669626" duration="691000" />
+      <workItem from="1632391733477" duration="70000" />
+      <workItem from="1632419442450" duration="8929000" />
+      <workItem from="1633370301554" duration="55000" />
+      <workItem from="1633372783055" duration="2166000" />
+      <workItem from="1633705931476" duration="2801000" />
+      <workItem from="1633708988159" duration="491000" />
+      <workItem from="1633712857975" duration="103000" />
+      <workItem from="1633712963799" duration="2976000" />
+      <workItem from="1633978512522" duration="6723000" />
+      <workItem from="1633986063690" duration="2186000" />
+      <workItem from="1633988559658" duration="683000" />
+      <workItem from="1634132907379" duration="2729000" />
+      <workItem from="1634135684692" duration="636000" />
+      <workItem from="1634143467744" duration="11083000" />
+      <workItem from="1634158338589" duration="85000" />
+      <workItem from="1634158564849" duration="275000" />
+      <workItem from="1634190734174" duration="746000" />
+      <workItem from="1634538436610" duration="4568000" />
+      <workItem from="1634585675389" duration="4022000" />
+      <workItem from="1634667715436" duration="2438000" />
+      <workItem from="1634728660078" duration="13000" />
+      <workItem from="1634728966046" duration="1167000" />
+      <workItem from="1635007185398" duration="54000" />
+      <workItem from="1635013196568" duration="1198000" />
+      <workItem from="1635236034791" duration="7392000" />
+      <workItem from="1635267991399" duration="177000" />
+      <workItem from="1635268171754" duration="743000" />
+      <workItem from="1635420094454" duration="2003000" />
+      <workItem from="1635448174351" duration="524000" />
+      <workItem from="1635448764795" duration="682000" />
+      <workItem from="1635449474704" duration="27000" />
+      <workItem from="1635449504339" duration="719000" />
+      <workItem from="1635497112992" duration="4976000" />
+      <workItem from="1635578952727" duration="6480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11456000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25168985" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/dance-calendar/wpdancecalendar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1051" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../esensplan/EsensPlan/css/rozklad_strona.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11868" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/dance-new-course/wpdancenewcourse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="24" column="96" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/danece-schedule/wpdancescdule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="27" column="107" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pwprogramming-dance-studio/assets/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pwprogramming-dance-studio/assets/css/customize-controls.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/dancecategories/img/zapisponajechaniu.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/dancecategories/wpdance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="276" column="18" lean-forward="true" selection-start-line="276" selection-start-column="18" selection-end-line="276" selection-end-column="18" />
+          <folding>
+            <element signature="e#6#188#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/pwprogramming-dance-studio/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="1891" column="19" lean-forward="true" selection-start-line="1891" selection-start-column="19" selection-end-line="1891" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/danece-schedule/css/rozklad_strona.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="190" column="14" selection-start-line="190" selection-start-column="14" selection-end-line="190" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/dancecategories/css/kafelki.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="248" column="40" selection-start-line="248" selection-start-column="40" selection-end-line="248" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/dance-new-course/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

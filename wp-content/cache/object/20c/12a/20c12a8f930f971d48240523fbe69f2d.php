@@ -1,0 +1,11 @@
+{*�^<?php exit; ?>a:1:{s:7:"content";O:7:"WP_Post":24:{s:2:"ID";i:758;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2020-04-03 11:49:35";s:13:"post_date_gmt";s:19:"2020-04-03 11:49:35";s:12:"post_content";s:1266:"<!-- wp:image {"width":326,"height":326} -->
+<figure class="wp-block-image is-resized"><img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_300,h_300/https://bailadance.pl/wp-content/uploads/2018/08/Akademia-Tan%CC%81ca-BAILADANCE.pl-660-897-695-.jpg-taniec-towarzyski--e1535354748535.jpg" alt="Kurs Tańca Towarzyskiego – Akademia Tańca BAILADANCE" width="326" height="326"/><figcaption>KURSY </figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"width":351,"height":263,"linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="http://prezes55.pro-linuxpl.com/esens/blog-2/rodzaje-zajec-grupowych/openy/"><img src="https://ocdn.eu/pulscms-transforms/1/887ktkqTURBXy85NTkwZTdmNTYzMmQ5YzRmNjg5NGQ4ODAyYzZmYzhiNC5qcGVnkZMFzQMgzQJY" alt="Stretching po treningu. 6 łatwych ćwiczeń dobrze rozciągających ..." width="351" height="263"/></a><figcaption>OPENY</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"width":347,"height":347} -->
+<figure class="wp-block-image is-resized"><img src="https://dance-center.pl/wp-content/uploads/TANIEC-TOWARZYSKI-Klub-I-ST.jpg" alt="TANIEC TOWARZYSKI Klub I ST | Dance Center SZKOŁA TAŃCA" width="347" height="347"/><figcaption>PRACTISY</figcaption></figure>
+<!-- /wp:image -->";s:10:"post_title";s:25:"Rodzaje zajęć grupowych";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"inherit";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:15:"752-revision-v1";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-04-03 11:49:35";s:17:"post_modified_gmt";s:19:"2020-04-03 11:49:35";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:752;s:4:"guid";s:70:"http://prezes55.pro-linuxpl.com/esens/blog/2020/04/03/752-revision-v1/";s:10:"menu_order";i:0;s:9:"post_type";s:8:"revision";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

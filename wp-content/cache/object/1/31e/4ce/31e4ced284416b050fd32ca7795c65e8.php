@@ -1,0 +1,1 @@
+nÿ*^<?php exit; ?>a:1:{s:7:"content";s:46:"{"good":"12","recommended":"4","critical":"0"}";}

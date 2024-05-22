@@ -1,0 +1,389 @@
+/* Team Members */
+
+.single-team-member-wrapper {
+  padding:0 2%;
+}
+
+@media screen and (min-width: 970px) {
+  .single-team-member-wrapper {
+    margin:0 auto;
+    width:900px;
+    padding:0;
+  }
+}
+
+.single-team-member-wrapper h1,
+.single-team-member-wrapper h2 {
+  text-align: center;
+}
+
+.single-team-member-wrapper .wp-post-image {
+  margin:0 auto;
+}
+
+.teammember-social-icons {
+  padding:0;
+  margin:5px 0 20px 0;
+  text-align:center;
+}
+
+.teammember-social-icons li {
+  display:inline-block;
+  margin-right:5px;
+}
+
+.teammember-social-icons li a {
+  width:25px;
+  height:25px;
+  text-align:center;
+  line-height:25px;
+  border-radius:50%;
+  color:#FFFFFF;
+  font-size:16px;
+  display:block;
+}
+
+.teammember-social-icons li a.facebook {
+  background-color:#3b5998;
+}
+
+.teammember-social-icons li a.twitter {
+  background-color:#00aced;
+}
+
+.teammember-social-icons li a.pinterest {
+  background-color:#cb2027;
+}
+
+#teammembers-grid {
+  margin:20px 0 0 0;
+  padding:0;
+  text-align:center;
+  max-width:100%;
+  width:100%;
+}
+
+#teammembers-grid h4 {
+  padding:0;
+  margin:0;
+}
+
+@media screen and (min-width: 799px) {
+  #teammembers-grid > li {
+    width:30%;
+    display:inline-block;
+  }
+
+  #teammembers-grid > li {
+    margin:0 1%;
+  }
+}
+
+@media screen and (max-width: 799px) {
+  #teammembers-grid > li {
+    width:48%;
+    float:left;
+  }
+
+  #teammembers-grid > li:nth-child(even) {
+    margin:0 0 0 1%;
+  }
+
+  #teammembers-grid > li:nth-child(odd) {
+    clear:both;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  #teammembers-grid > li {
+    width:auto;
+    float:none;
+  }
+}
+
+#sidebar #teammembers-grid > li {
+  width:auto;
+  float:none;
+}
+
+#teammembers-grid h4 {
+  font-size:22px;
+}
+
+#teammembers-grid li:before {
+  content:'' !important;
+}
+
+#teammembers-grid .teammember-social-icons li {
+  padding:0;
+  margin-right:1px;
+}
+
+#teammembers-grid .teammember-social-icons li a {
+    width:20px;
+    height:20px;
+    line-height:20px;
+    font-size:12px;
+}
+
+#teammembers-grid .teammember-social-icons {
+  text-align:center;
+}
+
+#teammembers-grid .teammember-social-icons {
+  margin-bottom:15px;
+}
+
+.teammembers-tab *,
+.teammembers-tab *::after,
+.teammembers-tab *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.teammembers-tab .effect {
+    margin: auto;
+    box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.07);
+    background-color: #fff;
+    border: solid #f5f5f5 5px;
+}
+
+.teammembers-tab .effect img {
+    position: relative;
+    display: block;
+    min-height: 100%;
+    /*max-width: 100%;*/
+    opacity: 0.8;
+}
+
+.teammembers-tab .effect .tab-text {
+    padding: 5% 2% 2% 2%;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.25rem;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.teammembers-tab .tab-text h2 {
+    color: #fff;
+    margin: 0;
+    font-size: 20px;
+}
+
+.teammembers-tab .tab-text p {
+    color: #fff;
+    margin: 0;
+    font-size: 14px;
+}
+
+.teammembers-tab .effect .tab-text {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.teammembers-tab .custom-row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.teammembers-tab .effect {
+    position: relative;
+    overflow: hidden;
+    background: #3085a3;
+    text-align: center;
+    cursor: pointer;
+}
+
+.teammembers-tab .effect.effect-seven {
+    background: linear-gradient(-45deg, #555 0%, #AAA 100%);
+}
+
+.teammembers-tab .effect.effect-seven img {
+    transition: all .35s;
+    transform: translate3d(0, 0, 0) scale(1);
+    -webkit-transition: all .35s;
+    -webkit-transform: translate3d(0, 0, 0) scale(1);
+}
+
+.teammembers-tab .effect.effect-seven:hover img {
+    opacity: .6;
+    transform: translate3d(-50px, 0, 0) scale(1.1) rotate(3deg);
+    -webkit-transform: translate3d(-50px, 0, 0) scale(1.1) rotate(3deg);
+}
+
+.teammembers-tab .effect.effect-seven h2 {
+    padding-top: 2%;
+    transform: scale3d(0.8, .8, 1);
+    transition: all .35s;
+    -webkit-transform: scale3d(0.8, .8, 1);
+    -webkit-transition: all .35s;
+    font-family: "Oswald";
+}
+
+.teammembers-tab .effect.effect-seven .col8-head {
+    padding-top: 9%;
+}
+
+.teammembers-tab .effect.effect-seven:hover h2 {
+    transform: scale3d(1, 1, 1);
+    -webkit-transform: scale3d(1, 1, 1);
+}
+
+.teammembers-tab .effect.effect-seven p {
+    font-size: 14px;
+    padding: 10px 5px;
+    transform: scale3d(.8, .8, 1);
+    -webkit-transform: scale3d(.8, .8, 1);
+    opacity: 0;
+    transition: all .35s;
+    -webkit-transition: all .35s;
+    font-family: "Poppins";
+}
+
+.teammembers-tab .effect.effect-seven:hover p {
+    transform: scale3d(1, 1, 1);
+    -webkit-transform: scale3d(1, 1, 1);
+    opacity: 1;
+}
+
+.teammembers-tab .effect.effect-seven .tab-text:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    transform: rotate3d(0, 0, 1, 45deg) scale3d(1, 0, 1);
+    -webkit-transform: rotate3d(0, 0, 1, 45deg) scale3d(1, 0, 1);
+    opacity: 0;
+    transition: all .35s;
+    -webkit-transition: all .35s;
+}
+
+.teammembers-tab .effect.effect-seven:hover .tab-text:after {
+    transform: rotate3d(0, 0, 1, 45deg) scale3d(1, 1, 1);
+    -webkit-transform: rotate3d(0, 0, 1, 45deg) scale3d(1, 1, 1);
+    opacity: 1;
+}
+
+.teammembers-tab .effect.effect-seven:hover .tab-text {
+  background-color: rgb(0, 0, 0, 0.4);
+}
+
+.teammembers-tab .effect.effect-seven .icons-block {
+    z-index: 1000;
+    position: absolute;
+    bottom: 25px;
+    width: 100%;
+    left: 0;
+    text-align: left;
+    padding-left: 15px;
+}
+
+.teammembers-tab .effect.effect-seven .c4 {
+    right: 0;
+    text-align: right;
+    padding-right: 15px;
+}
+
+.teammembers-tab .effect.effect-seven .c3 {
+    bottom: 50%;
+    margin-bottom: -40px;
+    left: 23%;
+}
+
+.teammembers-tab .effect.effect-seven .icons-block .social-icon-1,
+.teammembers-tab .effect.effect-seven .icons-block .social-icon-2,
+.teammembers-tab .effect.effect-seven .icons-block .social-icon-3,
+.teammembers-tab .effect.effect-seven .icons-block .social-icon-4,
+.teammembers-tab .effect.effect-seven .icons-block .social-icon-5,
+.teammembers-tab .effect.effect-seven .icons-block .social-icon-6 {
+    transition: all .5s ease-in-out;
+    opacity: 0;
+}
+
+.teammembers-tab .effect.effect-seven:hover .social-icon-1 {
+    opacity: 1;
+    transition-delay: .3s;
+    transition-duration: .5s;
+}
+
+.teammembers-tab .effect.effect-seven:hover .social-icon-2 {
+    opacity: 1;
+    transition-delay: .4s;
+    transition-duration: .5s;
+}
+
+.teammembers-tab .effect.effect-seven:hover .social-icon-3 {
+    opacity: 1;
+    transition-delay: .5s;
+    transition-duration: .5s;
+}
+
+.teammembers-tab .effect.effect-seven:hover .social-icon-4 {
+    opacity: 1;
+    transition-delay: .6s;
+    transition-duration: .5s;
+}
+
+.teammembers-tab .effect.effect-seven:hover .social-icon-5 {
+    opacity: 1;
+    transition-delay: .7s;
+    transition-duration: .5s;
+}
+
+.teammembers-tab .effect.effect-seven:hover .social-icon-6 {
+    opacity: 1;
+    transition-delay: .8s;
+    transition-duration: .5s;
+}
+
+.teammembers-tab .effect.effect-seven .icons-block i {
+    color: rgba(255,255,255,1.00);
+    padding-left: 10px;
+    font-size: 18px;
+}
+
+#sidebar #teammembers-grid .col-lg-3 {
+  flex:100%;
+  max-width:100%;
+}
+
+
+.team-member-item {
+  width:20%;
+  margin:10px 2%;
+  display: inline-block;
+}
+
+@media screen and (max-width: 1099px) {
+  .team-member-item {
+    width:27%;
+  }
+}
+
+@media screen and (max-width: 799px) {
+  .team-member-item {
+    width:45%;
+  }
+}
+
+@media screen and (max-width: 499px) {
+  .team-member-item {
+    width:90%;
+  }
+}
+
+.team-member-item-widget {
+  width:45%;
+  margin:10px 2%;
+  display: inline-block; 
+}

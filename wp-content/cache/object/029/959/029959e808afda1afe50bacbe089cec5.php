@@ -1,0 +1,1 @@
+Ó√^<?php exit; ?>a:1:{s:7:"content";s:122:"a:1:{s:59:"modern-events-calendar-lite/modern-events-calendar-lite.php";a:2:{i:0;s:11:"MEC_factory";i:1;s:9:"uninstall";}}";}

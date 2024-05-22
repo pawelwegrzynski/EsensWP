@@ -1,0 +1,1 @@
+Ⱛ^<?php exit; ?>a:1:{s:7:"content";a:2:{s:20:"newsletter_log_level";b:1;s:29:"_transient_timeout_doing_cron";b:1;}}

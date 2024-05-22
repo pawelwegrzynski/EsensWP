@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d1c6aa1c-24d7-4bcd-bc32-3f5416009dc2" name="serwerwww" url="https://www.nowa1.esens.com.pl/">
+        <fileTransfer host="91.237.52.132" port="21" rootFolder="/domains/nowa1.esens.com.pl">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

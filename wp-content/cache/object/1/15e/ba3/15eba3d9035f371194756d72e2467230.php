@@ -1,0 +1,1 @@
+â*^<?php exit; ?>a:1:{s:7:"content";s:74:"http://prezes55.pro-linuxpl.com/esens/wp-includes/images/media/default.png";}

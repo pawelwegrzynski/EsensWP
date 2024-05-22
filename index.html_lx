@@ -1,0 +1,41 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <META name="abstract" content="Hosting, webhosting, tani hosting, webhost, domeny, serwer www, web host, server, hostin, linuxpl.com">
+    <META name="author" content="Hosting, webhosting, tani hosting, domeny, serwery www, web host, resseler, linuxpl.com">
+    <meta name="reply-to" content="www.linuxpl.com">
+    <meta http-equiv="content-language" content="pl">
+    <meta name="language" content="pl">
+    <META name="robots" content="index, follow, all"><META name="revisit-after" content="3 days">
+    <meta name="classification" content="Hosting - Tanie i profesjonalne konta www. Serwery wirtualne, konta www, hosting, email!">
+    <meta name="page-topic" content="Hosting - serwery - KONTA WWW - LinuxPL.com">
+    <link rel="icon" href="http://ip.vdl.pl/favicon.png" type="image/png"/>
+        <title>
+                |DOMAIN| - strona utrzymywana na serwerach LinuxPL.com
+        </title>
+
+        <style>
+        * { font-family: verdana; font-size: 10pt; COLOR: gray; }
+        b { font-weight: bold; }
+        table { height: 50%; border: 1px solid gray;}
+        td { text-align: center; padding: 25;}
+        </style>
+</head>
+<body>
+<center>
+<br><br><br><br>
+        <table>
+        <tr><td>Witamy na stronie <b>|DOMAIN|</b></td></tr>
+
+        <tr><td><a href="https://linuxpl.com"><img src="logo.jpg"></a></td></tr>
+        <tr><td>Pliki własnej strony www proszę umieścić w katalogu <br>~/domains/|DOMAIN|/public_html<br><br>Należy upewnić się wcześniej, że ten plik (index.html) został skasowany.</td></tr>
+	<tr><td style="font-size: 8pt"><a href="https://linuxpl.com">Hosting</a> - <a href="https://linuxpl.com/domeny">Domeny</a> - <a href="https://linuxpl.com/vps-root">Serwery VPS</a> - <a href="https://linuxpl.com/certyfikaty-ssl">Certyfikaty SSL</a></td></tr>
+        </table>
+<br><br>
+
+</center>
+</body>
+
+</html>
+
+

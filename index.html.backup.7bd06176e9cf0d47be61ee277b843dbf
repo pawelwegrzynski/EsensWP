@@ -1,0 +1,39 @@
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <META name="abstract" content="Cyber_Folks Lepsza szybkość stron i wsparcie bez porównania">
+  <META name="author" content="Hosting cyberfolks.pl Cyber_Folks">
+  <meta name="reply-to" content="cyberfolks.pl">
+  <meta http-equiv="content-language" content="pl">
+  <meta name="language" content="pl">
+  <META name="robots" content="index, follow, all"><META name="revisit-after" content="3 days">
+  <meta name="classification" content="">
+  <meta name="page-topic" content="Lepsza szybkość stron i wsparcie bez porównania">
+  <link rel="icon" href="https://cyberfolks.pl/wp-content/themes/cyberfolks/dist/img/favicons/favicon-16x16.png" type="image/png"/>
+        <title>
+                nowa1.esens.com.pl - strona utrzymywana na serwerach Cyber_Folks
+        </title>
+
+        <style>
+        * { font-family: verdana; font-size: 10pt; COLOR: gray; }
+        b { font-weight: bold; }
+        table { height: 50%; border: 1px solid gray;}
+        td { text-align: center; padding: 25;}
+        </style>
+</head>
+<body>
+<center>
+<br><br><br><br>
+        <table>
+        <tr><td>Witamy na stronie <b>nowa1.esens.com.pl</b></td></tr>
+
+        <tr><td><a href="https://cyberfolks.pl"><img src="https://cyberfolks.pl/wp-content/themes/cyberfolks/dist/img/static/logo_gray.svg" height="60%" ></a></td></tr>
+        <tr><td>Pliki strony www proszę umieścić w katalogu <br>~/domains/nowa1.esens.com.pl/public_html<br><br>Upewnij się również że ten plik (index.html) został skasowany. </td></tr>
+        <tr><td></br>Potrzebujesz pomocy? Wejdź na <a href="https://cyberfolks.pl/pomoc">CyberFolks.pl/pomoc</a></tr></td>
+        </table>
+<br><br>
+
+</center>
+</body>
+
+</html>

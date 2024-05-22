@@ -1,0 +1,1 @@
+"«^<?php exit; ?>a:1:{s:7:"content";a:5:{s:10:"_edit_lock";a:1:{i:0;s:12:"1588182311:1";}s:17:"_wp_page_template";a:1:{i:0;s:34:"page-template/custom-home-page.php";}s:40:"_oembed_396832fbb500fc142a6e9b2881497c4c";a:1:{i:0;s:11:"{{unknown}}";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:12:"_is_vue_load";a:1:{i:0;s:4:"none";}}}

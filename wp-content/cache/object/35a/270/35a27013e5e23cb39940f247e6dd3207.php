@@ -1,0 +1,1 @@
+RX°^<?php exit; ?>a:1:{s:7:"content";s:61:"a:3:{s:4:"mean";d:3058.04;s:3:"max";i:86385;s:3:"min";i:369;}";}
